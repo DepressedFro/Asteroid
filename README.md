@@ -1,2 +1,0 @@
-# Asteroid-
-Asteroid game
