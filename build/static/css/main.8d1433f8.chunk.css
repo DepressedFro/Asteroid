@@ -1,0 +1,2 @@
+body{margin:0;padding:0;display:flex;flex-direction:row;flex-wrap:wrap}canvas{width:1000px;height:1000px;padding-left:0;padding-right:0;margin:5px auto;display:block;border:1px solid #000;background-color:#000;box-shadow:5px 5px #777;-ms-interpolation-mode:nearest-neighbor;image-rendering:-moz-crisp-edges;image-rendering:pixelated}#message{position:absolute;top:0;left:20px;width:400px;height:500px;display:flex;flex-direction:column;justify-content:center;align-items:center}
+/*# sourceMappingURL=main.8d1433f8.chunk.css.map */
